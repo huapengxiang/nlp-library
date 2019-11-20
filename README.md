@@ -43,6 +43,7 @@ Some special designations for certain papers:
   - **TLDR**: This work offers a nifty approach to building coreference chains iteratively using entity-level features.
 * (2016) [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://cs.stanford.edu/~kevclark/resources/clark-manning-acl16-improving.pdf)
   - **TLDR**: One of the earliest effective approaches to using neural networks for coreference resolution, significantly outperforming the SOTA.
+  
   *(2017)[ End-to-end Neural Coreference Resolution ] (https://arxiv.org/abs/1707.07045)
 
 ## Sentiment Analysis
