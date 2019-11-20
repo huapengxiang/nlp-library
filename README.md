@@ -44,7 +44,7 @@ Some special designations for certain papers:
 * (2016) [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://cs.stanford.edu/~kevclark/resources/clark-manning-acl16-improving.pdf)
   - **TLDR**: One of the earliest effective approaches to using neural networks for coreference resolution, significantly outperforming the SOTA.
   
-  *(2017)[ End-to-end Neural Coreference Resolution ] (https://arxiv.org/abs/1707.07045)
+  *(2017)[ End-to-end Neural Coreference Resolution ](https://arxiv.org/abs/1707.07045)
 
 ## Sentiment Analysis
 * (2012) [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://www.aclweb.org/anthology/P12-2018)
